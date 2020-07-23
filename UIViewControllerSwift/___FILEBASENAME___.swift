@@ -4,21 +4,32 @@ import UIKit
 
 class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
 
+    //MARK:- ライフサイクルメソッド
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
     }
     
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
+    override func viewWillAppear(_ animated: Bool) {
+        
     }
-    */
+    
+    
+    
+    //MARK:- 変数の宣言
+    
+    
+    
+    //MARK:- UIの設定
+    
+    
+    
+    
+    //MARK:- 画面遷移
+    
+    
+    
+    //MARK:- その他のメソッド
+
 
 }
