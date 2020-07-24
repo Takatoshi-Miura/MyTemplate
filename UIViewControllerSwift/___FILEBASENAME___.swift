@@ -62,6 +62,7 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
     
     // テーブル用
     var dataArray:[String] = []         // セルに表示するデータを格納する配列
+    var sectionTitle:[String] = []      // セクションタイトル
     
     
     
